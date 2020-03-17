@@ -1,0 +1,5 @@
+﻿  Banking Record System.cpp
+C:\Users\libo8\source\repos\Banking Record System\Banking Record System\Banking Record System.cpp(104,28): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\libo8\source\repos\Banking Record System\Banking Record System\Banking Record System.cpp(125,28): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\libo8\source\repos\Banking Record System\Banking Record System\Banking Record System.cpp(155,28): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+  Banking Record System.vcxproj -> C:\Users\libo8\source\repos\Banking Record System\Debug\Banking Record System.exe
